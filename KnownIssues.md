@@ -17,6 +17,7 @@ Last updated: February 13, 2026
 
 ### Messaging
 - No E2EE on messages (DMs, Group Chats, etc)
+- GIF limitations (i'm using a dev API key for Giphy, limited to 100 overall per hour so goodluck atm. I'll request a prod one in time)
 
 ---
 
