@@ -5,10 +5,9 @@ Last updated: February 13, 2026
 ---
 
 ### Desktop Client
-- Screenshare low FPS at source quality (investigating, might be the way livekit is proxied)
+- Screenshare displays a little floating control box with tauri.localhost. This is the way the native OS webview2 screenshare works, looking at a way to bypass without overprocessing frames
 - Settings menu half of the items don't work LOL
-- Reordering communities and channels doesn't work
-- Frequent login and MFA prompt when quitting the app
+- Reordering communities and channels doesn't work unless you very carefully do it
 
 ### Web Client
 - Settings menu half of the items don't work LOL
