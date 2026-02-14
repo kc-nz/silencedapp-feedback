@@ -7,7 +7,7 @@ This is the public feedback repository for [Silenced](https://silenced.app), an 
 Head to the [Issues](https://github.com/kc-nz/silencedapp-feedback/issues) tab and create a new issue. Please use one of the following labels to help us categorize your submission:
 
 - **bug** — Something isn't working as expected
-- **feature request** — An idea or suggestion for new functionality
+- **enhancement** — An idea or suggestion for new functionality
 - **feedback** — General thoughts, impressions, or usability comments
 
 ## Before Posting
